@@ -1,2 +1,3 @@
-# algogenesis-evolution
-Evolution of Algorithms and Agents using Universal Hierarchy Formalism (UHF)
+# AlgoGenesis - Evolution of Algorithms
+
+Meta-evolution framework combining UHF theory with neuroevolution.
